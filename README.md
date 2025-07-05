@@ -30,7 +30,7 @@ Calcular de forma prática o consumo médio do carro, ajudando motoristas a cont
 ## Status do Projeto
 
 ✅ Concluído  
-🚧 Em desenvolvimento (marque conforme o andamento real)
+
 
 ---
 
